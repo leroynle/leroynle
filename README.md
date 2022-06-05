@@ -21,7 +21,7 @@
 
 
 ### Let's connect 👨‍💻 and forge the future together.😁✌
-<a href="https://www.linkedin.com/in/leroynle-157360172/">
+<a href="https://www.linkedin.com/in/leroy-n-le-157360172/">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> &nbsp;&nbsp;
  <a href="https://twitter.com/leroyle_ll">
