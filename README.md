@@ -2,7 +2,7 @@
 ---
 - 👀 I’m a Software and DevOps Engineer.
 - 🌱 I’m currently working for <img src="http://img.shields.io/badge/-000000?style=flat&logo=verizon&logoColor=red"> Verizon Inc
-- :books: I love <img src="https://img.shields.io/badge/-Blockchain-3a495d?style=flat&logo=ethereum&logoColor=67b7f7"> and currently learning developing smart contract with Ethereum and Solidity.
+
 
 ---
 ### Languages: <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/-Golang-white?style=flat&logo=go&logoColor=blue"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white">
