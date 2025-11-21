@@ -1,40 +1,36 @@
-### Hey there!! Leroy here 👋
----
-- 👀 I’m a Software and DevOps Engineer.
-- 🌱 I’m currently working for <img src="http://img.shields.io/badge/-000000?style=flat&logo=verizon&logoColor=red"> Verizon Inc
+<div align="center">
 
+# Hi there, I'm Leroy! 👋
 
----
-### Languages: <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/-Golang-white?style=flat&logo=go&logoColor=blue"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
-
-### Databases: <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white">
-
-### Cloud Computing: <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"> <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white"> <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white">
-
-### Tools: <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white"> <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white"> <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white">
+### Software & DevOps Engineer
+Currently building things at <img src="https://img.shields.io/badge/Verizon-CD040B?style=flat&logo=verizon&logoColor=white" height="20">
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leroynle&show_icons=true&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=leroynle&show_icons=true&theme=dracula&hide_border=true" alt="Leroy's Github Stats" />
 
 ---
 
+### 🛠️ Technologies & Tools
 
-### Let's connect 👨‍💻 and forge the future together.😁✌
-<a href="https://www.linkedin.com/in/leroy-n-le-157360172/">
-    <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> &nbsp;&nbsp;
- <a href="https://twitter.com/leroyle_ll">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a> &nbsp;&nbsp;
+#### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-<br/>
+#### Frameworks & Runtime
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+
+#### DevOps & Cloud
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+
+#### Databases
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ---
 
-:star: From [leroynle](https://github.com/leroynle)
+### 🤝 Let's Connect
 
-<!---
-leroynle/leroynle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.linkedin.com/in/leroy-n-le/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
